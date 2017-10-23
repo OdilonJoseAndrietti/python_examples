@@ -7,9 +7,7 @@ def loadfile():
     return lines
 
 if __name__ == '__main__':
-    print ("Load file ...\n")
-    
-    lines = loadfile()
-    
+    print ("Load file ...\n")    
+    lines = loadfile()    
     print (lines)
     print ("\nLoad End\n")
